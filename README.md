@@ -373,6 +373,6 @@ Developed by **Aditya Gaur** ([@xdityagr](https://github.com/xdityagr))
 
 ## Links
 
-- [GitHub Repository](https://github.com/xdityagr/starforge)
-- [PyPI Package](https://pypi.org/project/starforge/)
-- [Report Issues](https://github.com/xdityagr/starforge/issues)
+- [GitHub Repository](https://github.com/xdityagr/ProjectStarForge)
+- [PyPI Package](https://pypi.org/project/py-starforge/)
+- [Report Issues](https://github.com/xdityagr/ProjectStarForge/issues)
