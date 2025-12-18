@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "py-starforge"
-version = "1.0.0"
+version = "1.0.3"
 description = "A Python library for generating beautiful, accurate astronomical star charts"
 readme = "README.md"
 license = {text = "MIT"}
@@ -50,6 +50,7 @@ dependencies = [
     "geonamescache>=1.6",
     "colorama>=0.4",
     "pytz>=2023.0",
+    "pandas>=2.0.0"
 ]
 
 [project.optional-dependencies]
@@ -65,11 +66,11 @@ export = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/xdityagr/starforge"
-Documentation = "https://github.com/xdityagr/starforge#readme"
-Repository = "https://github.com/xdityagr/starforge.git"
-Issues = "https://github.com/xdityagr/starforge/issues"
-Changelog = "https://github.com/xdityagr/starforge/releases"
+Homepage = "https://github.com/xdityagr/ProjectStarForge"
+Documentation = "https://github.com/xdityagr/ProjectStarForge#readme"
+Repository = "https://github.com/xdityagr/ProjectStarForge.git"
+Issues = "https://github.com/xdityagr/ProjectStarForge/issues"
+Changelog = "https://github.com/xdityagr/ProjectStarForge/releases"
 
 [project.scripts]
 starforge = "Starforge.cli:main"

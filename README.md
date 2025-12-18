@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/starforge_banner.png" alt="StarForge Banner" width="800">
+  <img src="https://raw.githubusercontent.com/xdityagr/ProjectStarForge/main/starforge_banner.png" width="800">
 </p>
 
 # StarForge
@@ -44,7 +44,7 @@ StarForge can be used both as a **Python library** and as a **command-line tool*
 ## Installation
 
 ```bash
-pip install starforge
+pip install py-starforge
 ```
 
 > Python 3.9+ recommended
