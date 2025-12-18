@@ -59,10 +59,6 @@ venv.bak/
 *.swo
 *~
 
-# Output files
-*.svg
-output/
-
 # Data files (downloaded automatically by Skyfield)
 *.bsp
 hip_main.dat

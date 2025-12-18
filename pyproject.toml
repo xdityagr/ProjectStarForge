@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "starforge"
+name = "py-starforge"
 version = "1.0.0"
 description = "A Python library for generating beautiful, accurate astronomical star charts"
 readme = "README.md"

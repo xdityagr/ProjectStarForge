@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="starforge_banner.png" alt="StarForge Banner" width="800">
+  <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/starforge_banner.png" alt="StarForge Banner" width="800">
 </p>
 
 # StarForge
@@ -356,7 +356,7 @@ StarForge is designed to scale from **one-line scripts** to **production pipelin
 | `.with_line_style(...)` | Constellation line style |
 
 ## Examples 
-See more examples in [examples.py](github.com/xdityagr/ProjectStarForge/examples/examples.py) & their outputs in [outputs](github.com/xdityagr/ProjectStarForge/examples/outputs/)
+See more examples in [examples.py](https://github.com/xdityagr/ProjectStarForge/tree/main/examples/examples.py) & their outputs in [outputs](https://github.com/xdityagr/ProjectStarForge/tree/main/examples/outputs/)
 
 #### Run specific examples:
     python examples.py basic
