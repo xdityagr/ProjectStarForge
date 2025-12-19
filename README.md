@@ -60,7 +60,7 @@ StarForge can be used both as a **Python library** and as a **command-line tool*
 ## Installation
 
 ```bash
-pip install py-starforge
+pip install "py-starforge"
 ```
 
 > Python 3.9+ recommended
