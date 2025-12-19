@@ -35,6 +35,22 @@ All while remaining deterministic, scriptable, and design-grade.
 - **Customizable** - Colors, sizes, labels, effects, and more
 - **High Quality SVG** - Scalable vector output for any resolution
 
+## Samples Outputs
+#### `aren't they beautiful?`
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example6_no_labels.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example7_printable.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example7_vintage.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example16_full_config.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example4_tight_zoom.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example8_large.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example12_strong_sphere.svg" width="45%">
+    <img src="https://github.com/xdityagr/ProjectStarForge/blob/main/examples/outputs/example20_anniversary.svg" width="45%">
+</div>
+
+
+
 # Usage
 
 StarForge can be used both as a **Python library** and as a **command-line tool**. The API is designed to be fluent, composable, and easy to read, while still allowing deep control over astronomical accuracy and visual styling.
@@ -373,6 +389,6 @@ Developed by **Aditya Gaur** ([@xdityagr](https://github.com/xdityagr))
 
 ## Links
 
-- [GitHub Repository](https://github.com/xdityagr/starforge)
-- [PyPI Package](https://pypi.org/project/starforge/)
-- [Report Issues](https://github.com/xdityagr/starforge/issues)
+- [GitHub Repository](https://github.com/xdityagr/ProjectStarForge)
+- [PyPI Package](https://pypi.org/project/py-starforge/)
+- [Report Issues](https://github.com/xdityagr/ProjectStarForge/issues)
